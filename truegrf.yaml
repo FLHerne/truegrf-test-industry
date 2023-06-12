@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f12080b3
 license: CC0-1.0
+name: truegrf-test-industry
 type: industry
+url: https://github.com/FLHerne/truegrf-test-industry
 version: 6
